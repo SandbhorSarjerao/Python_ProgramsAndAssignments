@@ -1,0 +1,7 @@
+f1 = open('Tulips.jpg', 'rb')
+data = f1.read()
+f2 = open('TulipsNew.jpg', 'wb')
+f2.write(data)
+f1.close()
+f2.close()
+print('New Image is Created: TulipsNew.jpg')

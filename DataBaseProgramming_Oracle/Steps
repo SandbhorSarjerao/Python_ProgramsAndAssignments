@@ -1,0 +1,13 @@
+
+
+1. connect()
+2. cursor()
+3. execute() ==> Execute only 1 Query
+4. executescript() ==> Execute group of Queries
+5. executemany()
+6. fetchone()
+7. fetchall()
+8. fetchmany(no)
+9. commit()
+10. rollback()
+11. close()

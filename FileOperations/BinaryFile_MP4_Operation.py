@@ -1,0 +1,7 @@
+f1 = open('Test.mp4', 'rb')
+data = f1.read()
+f2 = open('TestNew.mp4', 'wb')
+f2.write(data)
+f1.close()
+f2.close()
+print('New mp4 File is Created: TestNew.mp4')
