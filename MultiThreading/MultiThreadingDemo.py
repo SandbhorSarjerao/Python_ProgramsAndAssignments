@@ -22,4 +22,7 @@ obj1.start()
 sleep(0.3)
 obj2.start()
 
+obj1.join()
+obj2.join()
+
 print('Bye... Bye...')
