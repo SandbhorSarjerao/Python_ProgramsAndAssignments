@@ -1,8 +1,9 @@
 import static as static
 
-f = None
+
 
 try:
+    global f
     f = open('abc.txt', 'r')
     print('File Name', f.name)
     print('File Mode', f.mode)

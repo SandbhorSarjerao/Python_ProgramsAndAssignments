@@ -10,6 +10,6 @@ try:
     print(mycursor.fetchall())
     conn.commit()
 except Exception as e:
-    print("Error Occured: ",e)
+    print("Error Occured: ", e)
 finally:
     conn.close()
