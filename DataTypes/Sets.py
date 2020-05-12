@@ -1,3 +1,15 @@
+'''
+Set ==>
+Example => s = set()
+1) Insertion Order NOT preserved
+2) Duplicates are NOT Allowed
+3) Represent {}
+4) Slicing & Indexing NOT Allowed
+5) Mutable - Can be updated
+6) Heterojenious Elements Allowed
+7) Dynamic - Can Add & Delete Elements - Can chage the size
+'''
+
 x = set()
 x.add(1)
 x.add(2)
