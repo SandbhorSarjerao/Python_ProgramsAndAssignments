@@ -6,7 +6,7 @@ Example => s = set()
 3) Represent {}
 4) Slicing & Indexing NOT Allowed
 5) Mutable - Can be updated
-6) Heterojenious Elements Allowed
+6) Heterogeneous Elements Allowed
 7) Dynamic - Can Add & Delete Elements - Can chage the size
 '''
 

@@ -5,5 +5,6 @@ Tuple ==>
 3) Represent ()
 4) Slicing & Indexing Allowed
 5) Immutable - Can NOT be updated
-6) Heterojenious Elements Allowed
+6) Heterogeneous Elements Allowed
+7) Size Can NOT chage
 '''

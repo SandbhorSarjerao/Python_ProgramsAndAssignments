@@ -6,7 +6,7 @@ Example => s = {Key1: Value1, Key1: Value1,...}
 3) Represent {Key1: Value1,}
 4) Slicing & Indexing NOT Allowed
 5) Mutable - Can be updated
-6) Heterojenious Elements Allowed
+6) Heterogeneous Elements Allowed
 '''
 
 d = {'k1':'Value1','k2':'Value2','k3':'Value3','k4':[1,2,3],'k5':{'inside1':'InsideValue1','inside2':'InsideValue2'}}
