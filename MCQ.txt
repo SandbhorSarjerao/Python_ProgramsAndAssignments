@@ -1,0 +1,438 @@
+https://www.tutorialspoint.com/python/operators_precedence_example.htm
+
+
+Q1. Consider the following code:
+age=0
+minor=False
+name='Durga'
+
+The type of age, minor & name variables respectively:
+A) int, bool, str
+
+
+Q2. Consider the following code:
+weight=62.4
+zip='411026'
+value=+23E4     # = +23.0 * (10**4) = +23.0 * (100 * 100) = 230000.0
+
+The type of weight, zip & value variables resp:
+A) float, str, float
+
+
+Q3. Correct exp to print Sum of x & y
+x = input('Enter First Number:')
+y = input('Enter Second Number:')
+A) print('The Result: '+(int(x)+int(y)))
+B) print('The Result: '+(int(x+y)))
+C) print('The Result: '+str(int(x)+int(y)))
+D) print('The Result: '+str(int(x+y))
+
+Answer: C)
+
+
+Q4. Consider the following code:
+start=input('At the time of Joining how old were you?')
+end=input('How old are you today?')
+Which of the following code is correct to print Congratulations msg:
+A) print('Congratulations on '+ (int(end)-int(start))+' Years of Service!')
+B) print('Congratulations on '+ str(int(end)-int(start)) +' Years of Service!')
+C) print('Congratulations on '+ int(end-start) +' Years of Service!')
+D) print('Congratulations on '+ str(end-start) +' Years of Service!')
+
+Answer: B)
+
+
+Q5. Identify Type of a,b,c ?
+a=10+20
+b='10'+'20'
+c='10'*3
+
+Answer: A) a is int, b is string, c is string
+
+
+Q6. A list names emp contains 500 employee names, the last 3 being Company Management.
+You need to Slice employees to display All employees Excluding Management.
+Which two code segments are correct ?
+A) emp[1:-2]
+B) emp[:-3]
+C) emp[1:-3]
+D) emp[0:-2]
+E) emp[0:-3]
+
+Answer: B) and E)  # begin to (end-1), begin needs to be 0
+
+
+Q7. From Q6 , how to get only Management employees ?
+A) emp[497:]
+B) emp[-3:]
+C) emp[497:500]
+D) emp[-3:500]
+E) All the above
+
+Answer: E) All the above
+
+
+Q8. In which case we will get IndexError ?
+A) emp[1:1000]
+B) emp[-10:10]
+C) emp[0:501]
+D) None of the above
+
+Answer: D) None of the above ==> Slice Opertor never raise IndexError
+
+
+Q9. In Question-6 when we will get IndexError while accessing list elements ?
+A) emp[0]
+B) emp[500]
+C) emp[-1]
+D) None of the above
+
+Answer: B) ==> Valid Index values will be only 0 to 499
+
+
+Q10. Valid ways of accessing "Mango" ?
+list = ['Apple', 'Banana', 'Carrot', 'Mango']
+A) list[0]
+B) list[-1]
+C) list[4]
+D) list[3]
+
+Answer: B) D)  ==> List size is 4 i.e. 0 to 3
+
+
+Q11. What is the Output ?
+n1 = [10,20,30,40,50]
+n2 = [10,20,30,40,50]
+print(n1 is n2)         # Address Comparison
+print(n1 == n2)         # Value/Content Comparison
+
+Answer:
+False
+True
+
+
+Q12. What is the Output ?
+n1 = [10,20,30,40,50]
+n2 = [10,20,30,40,50]
+print(n1 is n2)         # Address Comparison
+print(n1 == n2)         # Value/Content Comparison
+n1 = n2
+print(n1 is n2)         # Address Comparison
+print(n1 == n2)         # Value/Content Comparison
+
+Answer:
+False
+True
+True
+True
+
+
+Q.13
+nos = [10,20,30,40,50]
+alpha = ['a','b','c','d','e']
+
+print(nos is alpha)
+print(nos == alpha)
+
+nos = alpha     # Pointing to the SAME Object
+print(nos is alpha)
+print(nos == alpha)
+
+Answer:
+False
+False
+True
+True
+
+
+Q14. What is the Result ?
+a = 15
+b = 5
+print(a/b)
+
+A) 3
+B) 3.0
+C) 0
+D) 0.0
+
+Answer: B) 3.0   # Division(/) operator gives always result as Float
+
+
+Q15.
+a = 21
+b = 6
+print(a/b)      # 3.5
+print(a//b)     # 3
+print(a%b)      # 3
+
+Q16.
+a = 21.0
+b = 6
+print(a/b)      # 3.5
+print(a//b)     # 3.0
+print(a%b)      # 3.0
+
+
+Q17. Which of the following is valid expression for the given requirement ,
+"where b is equals, a multiplied by Negative one, then raised to the second power,
+where 'a' is the value which will be input and 'b' is the result
+a = eval(input('Enter a no for the expression: '))
+A) b = (a-)**2
+B) b = -(a)**2
+C) b = (-a)**2
+D) b = (a)**-2
+
+Answer: C) b = (-a)**2 # -(a ** 2)
+
+Q18.
+result = a-b*c+d
+
+==> a-(b*c)+d
+
+
+Q19.
+a1 = '10'
+b1 = 3
+c1 = a1*b1      # String => '101010'
+
+a2 = 10
+b2 = 3
+c2 = a2/b2      # Float => 3.33
+
+a3 = 2.6
+b3 = 1
+c3 = a3/b3      # Float => 2.6
+
+
+Q20. Which of the following is valid python operator precedence order ?
+A)
+Parenthesis
+Exponents
+Unary Positive, Negative and Not
+Addition and Subtraction
+Multiplication and Division
+And
+
+B)   ==> Correct Answer
+Parenthesis
+Exponents
+Unary Positive, Negative and Not
+Multiplication and Division
+Addition and Subtraction
+And
+
+C)
+Exponents
+Unary Positive, Negative and Not
+Multiplication and Division
+Addition and Subtraction
+And
+Parenthesis
+
+Answer: B)   ==> Correct Answer
+
+
+Q21. Which of the variables will represent False ?
+a = bool([False])   # True  => bool(list[boolean]) => If list, tuple, set, dict are empty then bool() returns 'False' otherwise 'True'
+b = bool(3)         # True  => Non-zero
+c = bool("")        # False => empty string
+d = bool(' ')       # True => Non-empty string
+
+Answer: c
+*** For Empty String, Empty List, Empty tuple, Empty set, Empty dict and range(0) arguments bool() function returs False.
+As the argument is empyt string, it represents False.
+*** If list, tuple, set dict are empty then bool() retruns False
+*** If empty string then bool() retruns False
+*** If Non-empty string then bool() retruns True
+*** If 0 digit then bool() retruns False
+*** If Non-Zero digit then then bool() retruns True
+
+
+Q22. Which of the below variables represent True ?
+a = bool([])        # False => Empty List
+b = bool(())        # False => Empty tuple
+c = bool(range(0))  # False => 0
+d = bool({})        # False => Empty dict
+e = bool(set())     # False => Empty set
+
+A) C
+B) a, b, c, d
+C) All variables represent True
+D) None of the variables represents True
+
+Answer: D) None of the variables represents True
+
+
+Q23. Which variables represent True ?
+a = bool(0)     # False => 0 Digit
+b = bool(3)     # True  => Non-zero Digit
+c = bool(0.5)   # True  => Non-zero Digit
+d = bool(0.0)   # Fasle => 0 Digit
+
+Answer: b, c
+
+
+Q24. What is the result ?
+a = 3
+b = 5
+a += 2**3       # a = a + 2**3 = 3+(2**3) = 3+8 = 11
+a -= b//2//3    # a = a - b // 2 // 3 = 11 - 5 // 2 // 3 = 11 - (5//2) // 3 = 11 - (2 // 3) = 11 - 0 = 11
+print(a)
+
+A) 13
+B) 12
+C) 11
+D) 10
+
+Answer: C)
+
+
+Q25. What is the result ?
+result = 8 // 6 % 5 + 2 ** 3 - 2    # (8//6)%5+(2**3)-2 = (1%5)+8-2 = 1+6 = 7
+print(result)
+
+A) 6
+B) 7
+C) 8
+D) 9
+
+Answer: B) 7
+
+
+Q26. Which of the following expression will generate max value ?
+A) 8%3*4    # (8%3)*4 = 8
+B) 8-3*4    # 8-(3*4) = 8-12 = -4
+C) 8//3*4   # (8//3)*4 = 2*4 = 8
+D) 8/3*4    # (8/3)*4 = 2.66 * 4 = 10.64
+
+Answer: D)
+
+
+Q27. To make a value as 9, which expression required to place at Line-1
+a=2
+a +=1       # a = a+1 = 2+1 = 3
+# Line-1
+
+A) a*=2     # 3*2 = 6
+B) a**=2    # 3**2=3*3=9
+C) a+=2     # 3+2=5
+D) a-=2     # 3-2=1
+
+Answer: B) a**=2    # 3**2=3*3=9
+
+
+Q28. Which of the following cases the result value is 0 ?
+a = 1
+b = 3
+c = 5
+d = 7
+A) result = a+b*2   # 1+3*2 = 7
+B) result = a%b-1   # 1%3-1 = 0
+C) result = a-b//d  # 1-3//7 = 1 aprox
+D) result = a**d-1  # 1**7-1 = 0
+
+Answer:
+B) result = a%b-1   # 1%3-1 = 0
+D) result = a**d-1  # 1**7-1 = 0
+
+
+Q29. Which of the following cases we will get same result
+A) 23%5     # 3 => Reminder
+B) 3**1     # 3
+C) 11/3     # 3.66
+D) 13//4    # 3
+
+Answer:
+A) 23%5     # 3
+B) 3**1     # 3
+D) 13//4    # 3
+
+
+Q30. Which of the following expression results -4 ?
+a=1
+b=2
+c=4
+d=6
+
+(a+b)//c%d      # [(1+2)//4]%6 = [3//4]%6 = 0
+(b+c)//a%d      # [(2+4)//1]%6 = [6//1]%6 = 0
+(a+b)//c*d      # [(1+2)//4]*6 = [3//4]*6 = 0
+(a+b)//d-c      # [(1+2)//6]-4 = [3//6]-4 = -4
+
+Answer: (a+b)//d-c      # [(1+2)//6]-4 = [3//6]-4 = -4
+
+
+Q31. In which cases True will be printed ?
+sub = ['java', 'python', 'sap']
+more_sub = ['java', 'python', 'sap']
+extra_sub = more_sub
+
+A) print(extra_sub is more_sub)     # True  ==> is used for Address/Reference Comparison
+B) print(sub is more_sub)           # False
+C) print(sub is extra_sub)          # False
+D) print(sub == extra_sub)          # True
+
+Answer:
+A) print(extra_sub is more_sub)     # True
+D) print(sub == extra_sub)          # True
+
+
+Q32. In which cases 10 will be printed ?
+nos = [10,20,30,40]
+x=0
+
+A) for i in (30,40,50):
+        if i in nos:
+            x=x+5           # x=0+5= 5 = 5+5=10
+   print(x)
+
+B) for i in (30,40,50):
+        if i not in nos:
+            x=x+5           # x=0+5= 5
+   print(x)
+
+C) for i in (30,40,50):
+        if i not in nos:
+            x=x+10          # x=0+10= 10
+   print(x)
+
+D) for i in (30,40,50):
+        if i in nos:
+            x=x+10           # x=0+10= 10+10 = 20
+   print(x)
+
+Answer: A) and C)
+
+
+Q33. Which of the folling code snippet will produce the output ?
+Boy
+Cat
+Dog
+
+A)
+l = ['Apple', 'Boy', 'Cat', 'Dog']
+for x in l:
+    if len(x) == 3:     # len('Apple') is 5
+        print(x)        # for rest ele length is 3
+
+B)
+l = ['Apple', 'Boy', 'Cat', 'Dog']
+for x in l:
+    if len(x) != 3:     # len('Apple') is 5
+        print(x)        # for rest ele length is 3
+
+C)
+l = ['Apple', 'Boy', 'Cat', 'Dog']
+for x in l:
+    print(x)        # All elements will be printed
+
+D)
+l = ['Apple', 'Boy', 'Cat', 'Dog']
+l1=l[1:]
+for x in l1:
+    print(x)        # ele 0 will not print, elements 1,2,3 will be printed
+
+Answer: A) and D)
+
+
+
