@@ -1,5 +1,7 @@
 https://www.tutorialspoint.com/python/operators_precedence_example.htm
 
+# Power/Exponent work from Right to Left precedence
+
 
 Q1. Consider the following code:
 age=0
@@ -435,4 +437,576 @@ for x in l1:
 Answer: A) and D)
 
 
+Q34. To print 'Valid' which condition we have to take for if-statement
+a = 5
+b = 10
+c = 2
+d = True
 
+x = a+b*c       # x=5+(10*2)=25
+y = a+b/d       # y=5+(10/True)=15.0
+
+if (condition):
+    print('Valid')
+else:
+    print('Invalid')
+
+A) x<y      # x<y = 25<15 ==> False
+B) x<=y     # x<y = 25<=15 ==> False
+C) x>y      # x>y = 25>15  ==> True
+D) x==y     # x==y = 25==15 ==> False
+
+Answer: C) x>y
+
+Q35.
+x = {'a':1, 'b':2}
+y = {'c':3, 'd':4}
+z = {**x, **y}
+print(z)
+
+Answer: {'a':1, 'b':2, 'c':3, 'd':4}
+#   *x ==> any number of values present in x
+#   **x ==> any number of key-value pairs present in Dictionary in x
+
+Q36.
+l1=[10,20,30]
+l2=[40,50,60]
+l3=[*l1, *l2]
+print(l3)
+
+Answer: [10,20,30,40,50,60]
+
+Q37. Which of the following condition True will be printed ?
+x='Durga'
+y='Durga'
+result = condition
+print(result)
+
+A) x is y       # True  ==> x, y have the same value hence both points to same Address
+B) x is not y   # False ==> both are pointing to same location
+C) x != y       # False ==> x, y have the same value hence both points to same Address
+D) x < y        # False
+
+
+Q38. What is the result ?
+x=8
+y=10
+result= x//3*3/2+y%2**2     # = x//3*3/2+y%(2**2) = (8//3)*3/2+(10%4) = (2*3)/2+2 = (6/2)+2 = 3.0+2 = 5.0
+print(result)
+
+A) 5
+B) 5.0
+C) 6.0
+D) 7.0
+
+Answer: B) 5.0
+
+
+Q39. What is the result ?
+s='AB CD'
+list=list(s)
+list.append('EF')
+print(list)             # ['A','B',' ','C,'D','EF']
+
+A) ('A','B',' ','C','D','EF')       # Tuple
+B) ['A','B','C','D','EF']           # element Space is removed
+C) ['A','B','C','D','E','F']        # 'EF' is single element
+D) ['A','B',' ','C','D','EF']
+E) {'A','B',' ','C','D','EF'}       # Dict
+
+Answer: D) ['A','B',' ','C','D','EF']
+# List is represented as [], Whenever we are converting string to list, each character will become element of list including space also.
+
+Q40. Which of the following wont print 'CAT' ?
+x='ACROTE'
+y='APPLE'
+z='TOMATO'
+
+A) print(x[1]+y[0]+z[0])    # CAT
+B) print(x[2]+y[1]+z[1])    # RPO
+C) print(x[-5]+y[0]+z[0])   # CAT
+D) print(x[-5]+y[0]+z[-2])  # CAT
+
+Answer: B) print(x[2]+y[1]+z[1])    # RPO
+
+
+Q41.
+s='Python is easy'
+s1=s[-7:]           # s1 = 'is easy'
+s2=s[-4:]           # s2 = 'easy'
+print(s1+s2)        # 'is easyeasy'
+
+A) is easyeasy
+B) easyeasy
+C) iseasyeasy
+D) s easyeasy
+E) is easy easy
+
+Answer: A) is easyeasy
+
+
+Q42. To print 2 as o/p which code we have ti insert at Line-1
+s='Python is easy'
+s1=s[6:-4]      # ' is '
+# Line-1
+print(len(s2))
+
+A) s2 = s1.lstrip()     # 3
+B) s2 = s1.rstrip()     # 3
+C) s2 = s1.lrstrip()    # AttributeError => No such method
+D) s2 = s1.strip        # 2
+
+Answer: D) s2 = s1.strip
+
+
+Q43. What is the o/p ?
+s='Durga Soft'
+print(s.strip())            # 'Durga Soft'
+print(s.lstrip())           # 'Durga Soft'
+print(s.rstrip())           # 'Durga Soft'
+print(s.replace(' ','')     # 'DurgaSoft'
+
+
+Q44. Which line of the code assigns <class 'list'> to x ?
+t = ([10,20],10,False)
+
+A) x = type(t)          # tuple
+B) x = type(t[0])       # list
+C) x = type(t[1])       # int
+D) x = type(t[0:])      # tuple
+
+Answer: B) x = type(t[0])       # list
+
+
+Q45. Which of the following lines will print 'AA' ?
+b = 'BANANA'
+
+A) print(b[1]+b[2])     # AN
+B) print(b[1]+b[3])     # AA
+C) print(b[1]+b[5])     # AA
+D) print(b[3]+b[5])     # AA
+
+
+Q46. Which of following expressions are of type str ?
+a='5'       # str
+b='2'       # str
+
+A) a+b      # str
+B) a*b      # TypeError ==> Not Applicable
+C) a-b      # TypeError ==> Not Applicable
+D) a*2      # str
+
+
+Q47. Which of the following would evaluate to 2 ?
+A) 3**2     # 9
+B) 22%5     # 2   ==> Remainder
+C) 13//4    # 3
+D) 11/2     # 5.5
+
+Answer : B) 22%5     # 2   ==> Remainder
+
+
+Q48. Which of the following code assigns 9 to the o/p ?
+a=7
+b=3
+c=5
+d=1
+
+A) o/p = a%c+1      # (7%5)+1 = 2+1 = 3
+B) o/p = a+c//d     # 7+(5//1) = 7+5 = 12
+C) o/p = c*d-1      # (5*1)-1  = 4
+D) o/p = a+d*2      # 7+(1*2) = 9
+
+Answer: D) o/p = a+d*2      # 7+(1*2) = 9
+
+
+Q49. Which line should be inserted at Line-1 so that x value will become 16 ?
+x=3
+x += 1      # x=3+1 = 4
+Line-1
+
+A) x+=2     # 6
+B) x-=2     # 2
+C) x*=2     # 8
+D) x**=2    # 16
+
+Answer: D) x**=2    # 16
+
+
+Q50. In which of the following cases, True will be printed ?
+A)
+a=45
+b=45
+print(a is not b)   # False => values are same hence both are pointing to same Address
+
+B)
+s1='The Python Course'
+s2='The Python Course'.upper()
+print(s1 is s2)     # False
+
+C)
+x=[1,2,3]
+y=[1,2,3]
+print(x is y)   # False => As list is muatable x, y has different Addresses
+
+D)
+print('r' in 'durga')   # True
+
+E)
+print('is' in 'This IS a Fake News')    # True
+
+Answer: D) and E)
+
+
+Q51. Which expression evaluates to 4 ?
+A) 7/2*3    # 1.
+B) 7%2+3    # 4
+C) 7//2-3   # 0
+D) 7-2*3    # 1
+
+Answer: B) 7%2+3    # 4
+
+
+Q52. Result ?
+6//4%5+2**3-2//3    # (6//4)%5+(2**3)-(2//3) = (1%5)+8-0 = 9
+
+A) 9
+B) 3
+C) -1
+D) 25
+
+Answer:
+
+
+Q53.
+x=2
+y=6
+x+=2**3         # x = 10
+x//=y//2//3     # x = 10//(6//2//3) = 10//(3//3)=10
+print(x)
+
+A) 0
+B) 9
+C) 10
+D) 7
+
+Answer: C) 10
+
+
+Q54. What is the o/p ?
+x=3/3+3**3-3        # (3/3)+(3**3)-3=1.0+27-3=25.0
+print(x)
+
+A) 25
+B) 32
+C) 0.11
+D) 25.0
+
+Answer: D) 25.0
+
+
+Q55. Print 20 , if we pass 15 as count value from console ?
+count = input('Enter the no of customers of the bank: ')
+#Line-1
+print(output)
+
+A) output=int(count)+5      # 15+5=20
+B) output=count+5           # Error
+C) output=str(count)+5      # Error
+D) output=float(count)+5    # 20.0
+
+Answer: A) output=int(count)+5      # 15+5=20
+
+
+Q56. Which of the following cases we will get <class 'int'> as o/p ?
+A)
+x=47.0
+print(type(x))      # float
+
+B)
+x='47'
+print(type(x))      # str
+
+C)
+x=10+20j
+print(type(x))      # complex
+
+D)
+x=2**2**2           # Power/Exponent work from Right to Left precedence
+print(type(x))      # int
+
+Answer: D)
+
+
+Q57. Which of the following are valid statements ?
+A) 5+False evaluates to False           # 5+0 False
+B) True+1 evaluates to 2                # True
+C) True and False evaluates to False    # True
+D) True or False evaluates to False     # False
+E) type('') is <class 'bool'>           # False
+
+Answer: B) and C) are Ture
+
+
+Q58. Which of the following string declarations spans more than one line and considers whitespace properly when the string is printed to the console ?
+
+A) s1 = 'durga
+         software
+         solutions'
+
+B) s1="durga
+       software
+       solutions"
+
+C) s1='durga\n
+       software\n
+       solutions'
+
+D) s1='''durga
+         software
+         solutions'''
+
+Answer: D)
+
+
+Q59. If we enter 10 and 10.0 individually for every run what is the o/p ?
+print(type(input('Enter some value: ')))
+A)
+<class 'str'>
+<class 'str'>
+
+B)
+<class 'int'>
+<class 'float'>
+
+C)
+<class 'int'>
+<class 'int'>
+
+D)
+<class 'float'>
+<class 'float'>
+
+Answer: A)
+### input() function always returns str type, but eval() function converts str type to respective entered data type
+
+Q60. If we enter 10 and 10.0 individually for every run what is the o/p ?
+print(type(eval(input('Enter some value: '))))
+A)
+<class 'str'>
+<class 'str'>
+
+B)
+<class 'int'>
+<class 'float'>
+
+C)
+<class 'int'>
+<class 'int'>
+
+D)
+<class 'float'>
+<class 'float'>
+
+Answer: B)
+
+
+Q61. Valid statements ?
+A) s="Durga Sir's Python Classes are Good"
+   It causes Error because we cannot use double quotes and single quotes simultenously
+   # Valid stmt
+
+B) result=456+456.0
+   type of result is int
+    # Ans will be float
+
+C) The following expression evalulates to 12
+   b=False+5-True+35//4
+   # b=0+5-1+35//4=5-1+8=12
+
+D) The following line will print result" 4.5
+   print('result:', (7/2)+(False or True)+(9%3))
+   # 3.5+True+0 = 4.5
+
+Answers: C) D)
+
+
+Q62. The type of x+y ?
+x='10'
+y='20'
+
+A) int
+B) float
+C) str
+D) complex
+E) bool
+
+Answer: C) str
+
+
+Q63. Which expression evalulates to 2 ?
+a = float('123.456')
+
+A) int(a)+False     # 123
+B) bool(a)+True     # 2
+C) str(a)           # '123.456'
+D) bool(a)          # True = 1
+
+Anser: B) bool(a)+True     # 1+1=2
+
+
+Q64. Which line of the code will assing 'TT' to the o/p ?
+x='TEXT'
+
+A) output=x[0]+x[2]     # TX
+B) output=x[1]+x[1]     # XX
+C) output=x[0]+x[-1]    # TT
+D) output=x[1]+x[4]     # T
+
+Answer: C) output=x[0]+x[-1]    # TT
+
+
+Q65. What is the result ?
+l1=['sunny','bunny','chinny','vinny']
+l2=['sunny','bunny','chinny','vinny']
+print(l1 is not l2)     # True
+print(l1 != l2)         # False
+l1=l2
+print(l1 is not l2)     # False
+print(l1 != l2)         # False
+
+A)
+True
+Ture
+False
+False
+
+B)
+True
+False
+True
+False
+
+C)
+True
+False
+False
+True
+
+D)
+True
+False
+False
+False
+
+Answer: D)
+
+
+Q66. What is the result ?
+l1=['sunny','bunny','chinny','vinny']
+l2=['sunny','bunny','chinny','vinny']
+print(l1 is l2)         # False
+print(l1 == l2)         # True
+l1=l2
+print(l1 is l2)         # True
+print(l1 == l2)         # True
+
+Answer:
+A)
+False
+True
+True
+True
+
+
+Q67. What is the result ?
+print(10==10 and 20!=20)        # False
+print(10==10 or 20!=20)         # True
+print(not 10==10)               # False
+
+Answer:
+B)
+False
+True
+False
+
+
+Q68. What is the result ?
+print(not 0)        # True
+print(not 10)       # False
+print(not '')       # True
+print(not 'durga')  # False
+print(not None)     # True
+
+Answer:
+B)
+True
+False
+True
+False
+True
+
+Q69. What is the result ?
+lst = [7,8,9]
+b=lst[:]
+print(b is lst)     # False
+print(b==lst)       # True
+
+Answer:
+A)
+False
+True
+
+
+Q70. What is the result ?
+v1 = 1
+v2 = 0
+v1 = v1 ^ v2    # 1 ==> ^ ==> Exclusive OR Operator ==> both same then 0 , if both different then 1
+v2 = v1 ^ v2    # 1
+v1 = v1 ^ v2    # 0
+print(v1)
+
+A) 0
+B) 1
+C) 2
+D) 3
+
+Answer: A) 0
+
+
+Q71. What is the result ?
+a = ['a','b','c','d']
+for i in a:
+    a.append(i.upper())
+print(a)
+
+A) ['a','b','c','d']
+B) ['A','B','C','D']
+C) SyntaxError
+D) MemoryError thown at runtime
+
+Answer: D) MemoryError
+
+
+Q72. What is the output ?
+result=str(bool(1) + float(10)/float(2))    # str(True+(10.0/2.0)) = str(True+5.0) = str(6.0)
+print(result)
+
+A) SyntaxError
+B) TypeError
+C) 6
+D) 6.0
+
+Answer: D) 6.0
+
+
+Q73. Which of the following assign 9 to variable result ?
+s='DURGA SOFT'
+
+A) result=len(s)
+B) result=len(s.lstrip())
+C) result=len(s.rstrip())
+D) result=len(s.strip())
+E) result=len(s.replace(' ',''))
+
+Answer: E) result=len(s.replace(' ',''))
