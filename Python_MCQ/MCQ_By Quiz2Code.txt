@@ -229,3 +229,59 @@ C) 1, [2,3,4]
 D) None None
 Answer: C) 1, [2,3,4]
 
+### Variables
+
+Q24. Which of the following are valid python variable names ?
+A) Quiz2code
+B) _quiz
+C) return
+D) python
+E) 2code
+F) for
+G) quiz@123
+Answer: A) B) D)
+
+Q25.
+_="quiz2code"
+print(_)
+A) Error
+B) quiz2code
+C) 'quiz2code'
+Answer: C) 'quiz2code'
+
+Q26. Which of the following are python reserved words(keywords)
+A) class
+B) None
+C) goto
+D) python
+E) return
+F) and
+G) global
+Answer: A) B) E) F) G)
+
+Q27.
+r = 10_00_00
+print(r)
+A) 10_00_00
+B) 100000
+C) 10
+D) Error
+Answer: B) 100000
+
+Q28.
+r = 10
+s = 10
+A) id(r) and id(s) are same
+B) id(r) and id(s) are different
+Answer: A) id(r) and id(s) are same
+
+Q29.
+r = 500
+s = 500
+A) id(r) and id(s) are same
+B) id(r) and id(s) are different
+Answer: B) id(r) and id(s) are different
+
+
+
+
