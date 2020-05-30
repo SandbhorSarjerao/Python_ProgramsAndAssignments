@@ -1,4 +1,82 @@
 
+### print() Function ###
+Q1.
+a=print(123)
+print(a)
+A) 123 123
+B) 123 a
+C) 123 None
+D) Error
+Answer: C) 123 None
+
+Q2.
+print(print(print(123)))
+A) 123 123 123
+B) 123 None None
+C) None None 123
+D) Error
+Answer: B) 123 None None
+
+Q3.
+print("It's my pleasure")
+A) It's my pleasure
+B) Error
+Answer: A) It's my pleasure
+
+Q4.
+print('It's my pleasure')
+A) It's my pleasure
+B) Error
+Answer: B) Error
+
+Q5.
+print('It\'s my life')      # \ escape character
+A) Its my life
+B) It\s my life
+C) It's my life
+D) Error
+Answer: C) It's my life
+
+###
+print(0)        # False
+print('0')      # True => 0 will print
+print(r)        # Error => variable not defined
+print('r')      # True => r will print
+
+Q6.
+print('Quiz', 'code', sep='2')
+A) 'Quiz' 'code'
+B) Quiz code
+C) 'Quiz' 2 'code'
+D) Quiz2code
+Answer: D) Quiz2code
+
+Q7.
+print('Quiz',end='2')
+print('code')
+A) Quiz2
+   code
+B) 'Quiz''2'
+   'code'
+C) Quiz2code
+D) 'Quiz2code'
+Answer: C) Quiz2code
+
+Q8.
+print(end='love')
+print('you', end=' ')
+print('python')
+A) love
+   you
+   python
+B) loveyou python
+C) loveyou
+   python
+D) you python
+Answer: B) loveyou python
+
+### Basic Concepts ###
+
 Q1.
 print(print("Quiz2Code"))
 A) None Quiz2Code
@@ -282,6 +360,12 @@ A) id(r) and id(s) are same
 B) id(r) and id(s) are different
 Answer: B) id(r) and id(s) are different
 
-
+Q30. Which of the following style does PEP8 recommand for multi word Variable name:
+A) python_quiz
+B) Pythonquiz
+C) pythonQuiz               # camel_case
+D) pythonquiz
+E) PythonQuiz               # Pascal Case
+Answer: A) python_quiz      # snake_case
 
 
