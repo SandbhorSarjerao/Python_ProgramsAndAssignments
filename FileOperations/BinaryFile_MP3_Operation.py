@@ -1,0 +1,7 @@
+f1 = open('SleepAway.mp3', 'rb')
+data = f1.read()
+f2 = open('SleepAwayNew.mp3', 'wb')
+f2.write(data)
+f1.close()
+f2.close()
+print('New mp3 File is Created: SleepAwayNew.mp3')

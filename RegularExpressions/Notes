@@ -1,0 +1,58 @@
+
+Character Classess ==>
+------------------------------------
+[0-9]       ==> Any Digit
+[abc]       ==> either a or b or c
+[^abc]      ==> Except a and b and c
+[a-z]       ==> Any Lower Case Alphabet
+[A-Z]       ==> Any Upper Case Alphabet
+[a-zA-Z]    ==> Any Alphabet
+[a-zA-Z0-9] ==> Any AphaNumeric character
+[^a-zA-Z0-9] ==> Except any AphaNumeric character
+
+
+Predefined Character Classess ==>
+----------------------------------------
+\s      ==> Space Character => No of Spaces
+\S     ==> ExceptSpace Character
+\d      ==> Any Digit
+\D      ==> Except Digits
+\w      ==> Any Word Char (AphaNumeric character)  ==> [a-zA-Z0-9]
+\W      ==> Any character except word (Special Character)  ==> [^a-zA-Z0-9]
+.       ==> Every Character
+\t      ==> Tabs
+
+Quantifiers ===>
+-----------------------
+a       ==> exactly one 'a'
+a+      ==> atleast one 'a'
+a*      ==> any no of 'a's including zero also
+a?      ==> at most one 'a'
+a{n}    ==> exactly n of 'a's
+a{m,n}  ==> minimum m no of a's and maximum n no of a's
+^a      ==> starts with a or not
+a$      ==> ends with a or not
+
+
+
+Functions of re module  ===>
+---------------------------
+match()
+fullmatch()
+search()
+findall()
+finditer()
+sub()       ==> re.sub('\d','#','a7b9k5t9k')
+subn()
+split()
+compile()
+
+
+^ Symbol ==>
+$ Symbol ==>
+
+
+
+
+
+

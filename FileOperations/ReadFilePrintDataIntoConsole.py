@@ -1,0 +1,1 @@
+print(open("MyData.txt").read())
