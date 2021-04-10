@@ -8,7 +8,7 @@
 n = int(input("Enter Number of Rows: "))
 for i in range(n):      # Row Number
     for j in range(n):  # Number of *
-        print("*", end=" ")
+        print("* ", end=" ")
     print()
 
 # 2nd Way
