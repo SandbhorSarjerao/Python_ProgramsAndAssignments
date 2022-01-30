@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="17674f70-8dfe-48c8-b943-66407bcf921e" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/ProgramsAndAssignments.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ProgramsAndAssignments.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Python_ProgramsAndAssignments-master.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python_ProgramsAndAssignments-master.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Inheritance/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/PasswordChecker/CheckPassword.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -286,7 +282,14 @@
       <option name="project" value="LOCAL" />
       <updated>1643465566823</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Added Image, PDF &amp; Password Checker Programs">
+      <created>1643538795162</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1643538795162</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TodoView">
@@ -347,7 +350,8 @@
     <MESSAGE value="Updated Programs" />
     <MESSAGE value="Updated &amp; Added New Programs" />
     <MESSAGE value="Added Image &amp; PDF Programs" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Image &amp; PDF Programs" />
+    <MESSAGE value="Added Image, PDF &amp; Password Checker Programs" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Image, PDF &amp; Password Checker Programs" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
