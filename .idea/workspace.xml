@@ -2,7 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="17674f70-8dfe-48c8-b943-66407bcf921e" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/HackerNews_Project/WebScraping.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebSiteDevelopment_Project/Server.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebSiteDevelopment_Project/Static/assets/apple-icon-180x180.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebSiteDevelopment_Project/Static/assets/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebSiteDevelopment_Project/Static/assets/images/profil.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebSiteDevelopment_Project/Static/assets/images/space.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebSiteDevelopment_Project/Static/assets/images/work001-01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebSiteDevelopment_Project/Static/assets/images/work001-02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebSiteDevelopment_Project/Static/assets/images/work001-03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebSiteDevelopment_Project/Static/assets/images/work001-04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebSiteDevelopment_Project/Static/assets/images/work01-hover.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebSiteDevelopment_Project/Static/assets/images/work02-hover.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebSiteDevelopment_Project/Static/assets/images/work03-hover.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebSiteDevelopment_Project/Static/logo.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebSiteDevelopment_Project/Static/main.3f6952e4.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebSiteDevelopment_Project/Static/main.70a66962.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebSiteDevelopment_Project/Templates/about.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebSiteDevelopment_Project/Templates/components.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebSiteDevelopment_Project/Templates/contact.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebSiteDevelopment_Project/Templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebSiteDevelopment_Project/Templates/work.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebSiteDevelopment_Project/Templates/works.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OTPCodeProgram.py" beforeDir="false" afterPath="$PROJECT_DIR$/Programs/OTPCodeProgram.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,11 +37,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="CheckPassword.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/PasswordChecker/CheckPassword.py">
+      <file leaf-file-name="Server.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/WebSiteDevelopment_Project/Server.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="102">
-              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+              <caret line="6" column="64" selection-start-line="6" selection-start-column="64" selection-end-line="6" selection-end-column="64" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="about.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebSiteDevelopment_Project/Templates/about.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="49" column="8" lean-forward="true" selection-start-line="49" selection-start-column="8" selection-end-line="49" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -27,9 +60,47 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTML File" />
         <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>assets</find>
+      <find>.js</find>
+      <find>about.html</find>
+      <find>components.html</find>
+      <find>contact.html</find>
+      <find>index.html</find>
+      <find>work.html</find>
+      <find>works.html</find>
+      <find>main.3f6952e4.css</find>
+      <find>main.70a66962.js</find>
+      <find>apple-icon-180x180.png</find>
+      <find>profil.jpg</find>
+      <find>space.jpg</find>
+      <find>work01-hover.jpg</find>
+      <find>work001-01.jpg</find>
+      <find>work001-02.jpg</find>
+      <find>work001-03.jpg</find>
+      <find>work001-04.jpg</find>
+      <find>work02-hover.jpg</find>
+      <find>work03-hover.jpg</find>
+      <find>template</find>
+      <find>favicon.ico</find>
+      <find>Template/</find>
+      <find>Templates</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>Templates</replace>
+      <replace>templates</replace>
+      <replace>Template</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>C:\Users\Sarjerao Sandbhor\PycharmProjects\Python_ProgramsAndAssignments\</dir>
+      <dir>C:\Users\Sarjerao Sandbhor\PycharmProjects\Python_ProgramsAndAssignments\WebSiteDevelopment_Project</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -65,6 +136,20 @@
         <option value="$PROJECT_DIR$/PDFsProcessing/PDFsProcesses.py" />
         <option value="$PROJECT_DIR$/Email/Email.py" />
         <option value="$PROJECT_DIR$/PasswordChecker/CheckPassword.py" />
+        <option value="$PROJECT_DIR$/SMS/SMS.py" />
+        <option value="$PROJECT_DIR$/HackerNews_Project/WebScriping.py" />
+        <option value="$PROJECT_DIR$/WebSiteDevelopment_Project/index.html" />
+        <option value="$PROJECT_DIR$/WebSiteDevelopment_Project/Templates/work.html" />
+        <option value="$PROJECT_DIR$/WebSiteDevelopment_Project/Templates/works.html" />
+        <option value="$PROJECT_DIR$/WebSiteDevelopment_Project/Templates/contact.html" />
+        <option value="$PROJECT_DIR$/WebSiteDevelopment_Project/Templates/about.html" />
+        <option value="$PROJECT_DIR$/WebSiteDevelopment_Project/Templates/components.html" />
+        <option value="$PROJECT_DIR$/WebSiteDevelopment_Project/venv/Scripts/Server.py" />
+        <option value="$PROJECT_DIR$/WebSiteDevelopment_Project/Templates/index.html" />
+        <option value="$PROJECT_DIR$/WebSiteDevelopment_Project/venv/Server.py" />
+        <option value="$PROJECT_DIR$/WebSiteDevelopment_Project/templates/about.html" />
+        <option value="$PROJECT_DIR$/WebSiteDevelopment_Project/templates/index.html" />
+        <option value="$PROJECT_DIR$/WebSiteDevelopment_Project/Server.py" />
       </list>
     </option>
   </component>
@@ -92,7 +177,13 @@
             <path>
               <item name="Python_ProgramsAndAssignments" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python_ProgramsAndAssignments" type="462c0819:PsiDirectoryNode" />
-              <item name="PasswordChecker" type="462c0819:PsiDirectoryNode" />
+              <item name="WebSiteDevelopment_Project" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python_ProgramsAndAssignments" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python_ProgramsAndAssignments" type="462c0819:PsiDirectoryNode" />
+              <item name="WebSiteDevelopment_Project" type="462c0819:PsiDirectoryNode" />
+              <item name="Static" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -101,19 +192,25 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
     <property name="settings.editor.splitter.proportion" value="0.18510324" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Sarjerao Sandbhor\PycharmProjects\Python_ProgramsAndAssignments\PDFsProcessing" />
-      <recent name="C:\Users\Sarjerao Sandbhor\PycharmProjects\Python_ProgramsAndAssignments\ImageProcessing" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Sarjerao Sandbhor\PycharmProjects\Python_ProgramsAndAssignments\WebSiteDevelopment_Project" />
+      <recent name="C:\Users\Sarjerao Sandbhor\PycharmProjects\Python_ProgramsAndAssignments\WebSiteDevelopment_Project\venv" />
+      <recent name="C:\Users\Sarjerao Sandbhor\PycharmProjects\Python_ProgramsAndAssignments\Programs" />
+      <recent name="C:\Users\Sarjerao Sandbhor\PycharmProjects\Python_ProgramsAndAssignments\WebSiteDevelopment_Project\Templates" />
       <recent name="C:\Users\Sarjerao Sandbhor\PycharmProjects\Python_ProgramsAndAssignments\MathematicalPrograms" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Sarjerao Sandbhor\PycharmProjects\Python_ProgramsAndAssignments\Programs" />
-      <recent name="C:\Users\Sarjerao Sandbhor\PycharmProjects\Python_ProgramsAndAssignments\MathematicalPrograms" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Sarjerao Sandbhor\PycharmProjects\Python_ProgramsAndAssignments\WebSiteDevelopment_Project\Static\assets" />
+      <recent name="C:\Users\Sarjerao Sandbhor\PycharmProjects\Python_ProgramsAndAssignments\WebSiteDevelopment_Project\Static" />
+      <recent name="C:\Users\Sarjerao Sandbhor\PycharmProjects\Python_ProgramsAndAssignments\WebSiteDevelopment_Project\Templates" />
+      <recent name="C:\Users\Sarjerao Sandbhor\PycharmProjects\Python_ProgramsAndAssignments\PDFsProcessing" />
+      <recent name="C:\Users\Sarjerao Sandbhor\PycharmProjects\Python_ProgramsAndAssignments\ImageProcessing" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -296,7 +393,21 @@
       <option name="project" value="LOCAL" />
       <updated>1643540288194</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Updated Password Checker Programs">
+      <created>1643554310481</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1643554310481</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Added SMS Programs">
+      <created>1643701547655</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1643701547655</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TodoView">
@@ -315,11 +426,12 @@
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17633928" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32972136" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5014881" side_tool="true" weight="0.3993808" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32972136" />
       <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49925596" weight="0.4520124" />
       <window_info anchor="bottom" id="Python Console" order="7" sideWeight="0.49925596" weight="0.2647059" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49925596" weight="0.48142415" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.27708977" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.4009288" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4985119" weight="0.45820433" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -328,26 +440,25 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
     <layout-to-restore>
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.234375" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17633928" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32972136" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49925596" visible="true" weight="0.23684211" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.46749225" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50074404" side_tool="true" weight="0.32972136" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49925596" weight="0.4520124" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49925596" weight="0.48142415" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32972136" />
       <window_info anchor="bottom" id="Python Console" order="8" sideWeight="0.49925596" weight="0.2647059" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4985119" weight="0.45820433" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.25541794" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5014881" side_tool="true" weight="0.3993808" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info id="Favorites" order="2" side_tool="true" />
     </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -358,7 +469,9 @@
     <MESSAGE value="Updated &amp; Added New Programs" />
     <MESSAGE value="Added Image &amp; PDF Programs" />
     <MESSAGE value="Added Image, PDF &amp; Password Checker Programs" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Image, PDF &amp; Password Checker Programs" />
+    <MESSAGE value="Updated Password Checker Programs" />
+    <MESSAGE value="Added SMS Programs" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added SMS Programs" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -369,79 +482,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Email/Email.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="19" lean-forward="true" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
-          <folding>
-            <element signature="e#0#14#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DataTypes/Arrays.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="2" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Loops/IfElseConcepts.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DataTypes/ListDemo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="26" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DataTypes/ListDemo3_HeterogeneousElements.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Operators/BitwiseOperators.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="21" lean-forward="true" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FunctionsPrograms/InputFunction.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MathematicalPrograms/MathematicalFunctions.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FunctionsPrograms/InputParametersFromCommandLine.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="25" lean-forward="true" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DataTypes/ListDemo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="26" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/DataTypes/ListDemo3_HeterogeneousElements.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
@@ -705,16 +745,91 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-          <folding>
-            <element signature="e#0#14#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/PasswordChecker/CheckPassword.py">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="334">
+          <caret line="46" column="32" selection-start-line="46" selection-start-column="32" selection-end-line="46" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SMS/SMS.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HackerNews_Project/WebScraping.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="10" column="22" lean-forward="true" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebSiteDevelopment_Project/Templates/works.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="194" column="13" lean-forward="true" selection-start-line="194" selection-start-column="13" selection-end-line="194" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebSiteDevelopment_Project/Templates/contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="564">
+          <caret line="150" column="7" lean-forward="true" selection-start-line="150" selection-start-column="7" selection-end-line="150" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebSiteDevelopment_Project/Templates/components.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="564">
+          <caret line="250" column="7" lean-forward="true" selection-start-line="250" selection-start-column="7" selection-end-line="250" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebSiteDevelopment_Project/venv/Lib/site-packages/werkzeug/debug/tbtools.py" />
+    <entry file="file://$PROJECT_DIR$/WebSiteDevelopment_Project/Static/main.3f6952e4.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="7" column="17037" selection-start-line="7" selection-start-column="17037" selection-end-line="7" selection-end-column="17037" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebSiteDevelopment_Project/Static/main.70a66962.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="138" selection-start-column="138" selection-end-column="138" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebSiteDevelopment_Project/Templates/work.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="15" column="30" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebSiteDevelopment_Project/Templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="93">
+          <caret line="61" column="57" selection-start-line="61" selection-start-column="57" selection-end-line="61" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebSiteDevelopment_Project/Templates/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="49" column="8" lean-forward="true" selection-start-line="49" selection-start-column="8" selection-end-line="49" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebSiteDevelopment_Project/Server.py">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+          <caret line="6" column="64" selection-start-line="6" selection-start-column="64" selection-end-line="6" selection-end-column="64" />
         </state>
       </provider>
     </entry>
