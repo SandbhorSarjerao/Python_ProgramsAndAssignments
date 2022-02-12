@@ -2,31 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="17674f70-8dfe-48c8-b943-66407bcf921e" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/HackerNews_Project/WebScraping.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebSiteDevelopment_Project/Server.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebSiteDevelopment_Project/Static/assets/apple-icon-180x180.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebSiteDevelopment_Project/Static/assets/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebSiteDevelopment_Project/Static/assets/images/profil.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebSiteDevelopment_Project/Static/assets/images/space.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebSiteDevelopment_Project/Static/assets/images/work001-01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebSiteDevelopment_Project/Static/assets/images/work001-02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebSiteDevelopment_Project/Static/assets/images/work001-03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebSiteDevelopment_Project/Static/assets/images/work001-04.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebSiteDevelopment_Project/Static/assets/images/work01-hover.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebSiteDevelopment_Project/Static/assets/images/work02-hover.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebSiteDevelopment_Project/Static/assets/images/work03-hover.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebSiteDevelopment_Project/Static/logo.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebSiteDevelopment_Project/Static/main.3f6952e4.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebSiteDevelopment_Project/Static/main.70a66962.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebSiteDevelopment_Project/Templates/about.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebSiteDevelopment_Project/Templates/components.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebSiteDevelopment_Project/Templates/contact.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebSiteDevelopment_Project/Templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebSiteDevelopment_Project/Templates/work.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebSiteDevelopment_Project/Templates/works.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OTPCodeProgram.py" beforeDir="false" afterPath="$PROJECT_DIR$/Programs/OTPCodeProgram.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebSiteDevelopment_Project/Server.py" beforeDir="false" afterPath="$PROJECT_DIR$/WebSiteDevelopment_Project/Server.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebSiteDevelopment_Project/Static/main.70a66962.js" beforeDir="false" afterPath="$PROJECT_DIR$/WebSiteDevelopment_Project/Static/main.70a66962.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebSiteDevelopment_Project/Templates/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/WebSiteDevelopment_Project/Templates/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebSiteDevelopment_Project/Templates/components.html" beforeDir="false" afterPath="$PROJECT_DIR$/WebSiteDevelopment_Project/Templates/components.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebSiteDevelopment_Project/Templates/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/WebSiteDevelopment_Project/Templates/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebSiteDevelopment_Project/Templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/WebSiteDevelopment_Project/Templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebSiteDevelopment_Project/Templates/work.html" beforeDir="false" afterPath="$PROJECT_DIR$/WebSiteDevelopment_Project/Templates/work.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebSiteDevelopment_Project/Templates/works.html" beforeDir="false" afterPath="$PROJECT_DIR$/WebSiteDevelopment_Project/Templates/works.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -40,8 +23,38 @@
       <file leaf-file-name="Server.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/WebSiteDevelopment_Project/Server.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="64" selection-start-line="6" selection-start-column="64" selection-end-line="6" selection-end-column="64" />
+            <state relative-caret-position="255">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.3f6952e4.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebSiteDevelopment_Project/Static/main.3f6952e4.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="44" selection-start-line="1" selection-start-column="44" selection-end-line="1" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.70a66962.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebSiteDevelopment_Project/Static/main.70a66962.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="146">
+              <caret column="130842" selection-start-column="130833" selection-end-column="130842" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebSiteDevelopment_Project/Templates/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="121">
+              <caret line="27" column="41" selection-start-line="27" selection-start-column="41" selection-end-line="27" selection-end-column="41" />
+              <folding>
+                <element signature="n#style#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -49,8 +62,8 @@
       <file leaf-file-name="about.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/WebSiteDevelopment_Project/Templates/about.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="49" column="8" lean-forward="true" selection-start-line="49" selection-start-column="8" selection-end-line="49" selection-end-column="8" />
+            <state relative-caret-position="221">
+              <caret line="35" column="17" lean-forward="true" selection-start-line="35" selection-start-column="17" selection-end-line="35" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -79,7 +92,6 @@
       <find>main.70a66962.js</find>
       <find>apple-icon-180x180.png</find>
       <find>profil.jpg</find>
-      <find>space.jpg</find>
       <find>work01-hover.jpg</find>
       <find>work001-01.jpg</find>
       <find>work001-02.jpg</find>
@@ -91,11 +103,18 @@
       <find>favicon.ico</find>
       <find>Template/</find>
       <find>Templates</find>
+      <find>.ico</find>
+      <find>space.jpg</find>
+      <find>images</find>
+      <find>.css</find>
+      <find>&quot;./templates/</find>
+      <find>class=&quot;nav navbar-nav</find>
     </findStrings>
     <replaceStrings>
       <replace>Templates</replace>
       <replace>templates</replace>
       <replace>Template</replace>
+      <replace>&quot;./Templates/</replace>
     </replaceStrings>
     <dirStrings>
       <dir>C:\Users\Sarjerao Sandbhor\PycharmProjects\Python_ProgramsAndAssignments\</dir>
@@ -142,13 +161,15 @@
         <option value="$PROJECT_DIR$/WebSiteDevelopment_Project/Templates/work.html" />
         <option value="$PROJECT_DIR$/WebSiteDevelopment_Project/Templates/works.html" />
         <option value="$PROJECT_DIR$/WebSiteDevelopment_Project/Templates/contact.html" />
-        <option value="$PROJECT_DIR$/WebSiteDevelopment_Project/Templates/about.html" />
         <option value="$PROJECT_DIR$/WebSiteDevelopment_Project/Templates/components.html" />
         <option value="$PROJECT_DIR$/WebSiteDevelopment_Project/venv/Scripts/Server.py" />
-        <option value="$PROJECT_DIR$/WebSiteDevelopment_Project/Templates/index.html" />
         <option value="$PROJECT_DIR$/WebSiteDevelopment_Project/venv/Server.py" />
         <option value="$PROJECT_DIR$/WebSiteDevelopment_Project/templates/about.html" />
         <option value="$PROJECT_DIR$/WebSiteDevelopment_Project/templates/index.html" />
+        <option value="$PROJECT_DIR$/WebSiteDevelopment_Project/Static/main.3f6952e4.css" />
+        <option value="$PROJECT_DIR$/WebSiteDevelopment_Project/Static/main.70a66962.js" />
+        <option value="$PROJECT_DIR$/WebSiteDevelopment_Project/Templates/index.html" />
+        <option value="$PROJECT_DIR$/WebSiteDevelopment_Project/Templates/about.html" />
         <option value="$PROJECT_DIR$/WebSiteDevelopment_Project/Server.py" />
       </list>
     </option>
@@ -183,7 +204,7 @@
               <item name="Python_ProgramsAndAssignments" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python_ProgramsAndAssignments" type="462c0819:PsiDirectoryNode" />
               <item name="WebSiteDevelopment_Project" type="462c0819:PsiDirectoryNode" />
-              <item name="Static" type="462c0819:PsiDirectoryNode" />
+              <item name="Templates" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -407,7 +428,14 @@
       <option name="project" value="LOCAL" />
       <updated>1643701547655</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Added WebSiteDevelopment Project">
+      <created>1644154342951</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1644154342951</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TodoView">
@@ -421,9 +449,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17633928" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17633928" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32972136" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5014881" side_tool="true" weight="0.3993808" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32972136" />
@@ -431,7 +458,7 @@
       <window_info anchor="bottom" id="Python Console" order="7" sideWeight="0.49925596" weight="0.2647059" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49925596" weight="0.48142415" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.4009288" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.24148607" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4985119" weight="0.45820433" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -471,7 +498,8 @@
     <MESSAGE value="Added Image, PDF &amp; Password Checker Programs" />
     <MESSAGE value="Updated Password Checker Programs" />
     <MESSAGE value="Added SMS Programs" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added SMS Programs" />
+    <MESSAGE value="Added WebSiteDevelopment Project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added WebSiteDevelopment Project" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -791,20 +819,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/WebSiteDevelopment_Project/venv/Lib/site-packages/werkzeug/debug/tbtools.py" />
-    <entry file="file://$PROJECT_DIR$/WebSiteDevelopment_Project/Static/main.3f6952e4.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="7" column="17037" selection-start-line="7" selection-start-column="17037" selection-end-line="7" selection-end-column="17037" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WebSiteDevelopment_Project/Static/main.70a66962.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="138" selection-start-column="138" selection-end-column="138" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/WebSiteDevelopment_Project/Templates/work.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
@@ -812,24 +826,41 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/WebSiteDevelopment_Project/Static/main.70a66962.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret column="130842" selection-start-column="130833" selection-end-column="130842" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebSiteDevelopment_Project/Static/main.3f6952e4.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="44" selection-start-line="1" selection-start-column="44" selection-end-line="1" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/WebSiteDevelopment_Project/Templates/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="93">
-          <caret line="61" column="57" selection-start-line="61" selection-start-column="57" selection-end-line="61" selection-end-column="57" />
+        <state relative-caret-position="121">
+          <caret line="27" column="41" selection-start-line="27" selection-start-column="41" selection-end-line="27" selection-end-column="41" />
+          <folding>
+            <element signature="n#style#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/WebSiteDevelopment_Project/Templates/about.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="49" column="8" lean-forward="true" selection-start-line="49" selection-start-column="8" selection-end-line="49" selection-end-column="8" />
+        <state relative-caret-position="221">
+          <caret line="35" column="17" lean-forward="true" selection-start-line="35" selection-start-column="17" selection-end-line="35" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/WebSiteDevelopment_Project/Server.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="64" selection-start-line="6" selection-start-column="64" selection-end-line="6" selection-end-column="64" />
+        <state relative-caret-position="255">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
