@@ -1,0 +1,144 @@
+####### 1: Python get user input with a message
+# Taking input from the user
+name = input("Enter your name: ")
+ 
+# Output
+print("Hello, " + name)
+print(type(name))
+
+
+
+
+####### 2: Integer input in Python
+# Taking input from the user as integer
+num = int(input("Enter a number: "))
+ 
+add = num + 1
+ 
+# Output
+print(add)
+
+
+
+####### Multiple Inputs in Python
+a, b, c = map(int, input("Enter the Numbers : ").split())
+print("The Numbers are : ",end = " ")
+print(a, b, c)
+
+
+
+
+####### Taking List/Set elements one by one
+List = list()
+Set = set()
+l = int(input("Enter the size of the List : "))
+s = int(input("Enter the size of the Set  : "))
+print("Enter the List elements : ")
+for i in range(0, l):
+    List.append(int(input()))
+print("Enter the Set elements : ")
+for i in range(0, s):
+    Set.add(int(input()))
+print(List)
+print(Set)
+
+
+# Inbuild Methods
+#first import math module
+import math
+#get a variable having value 16
+number=16
+ 
+#square root this number.
+number=math.sqrt(number)
+ 
+print(number)
+
+
+
+# Inbuild map() and list() / set() Methods
+
+List = list(map(int, input("Enter List elements : ").split()))
+Set = set(map(int, input("Enter the Set elements :").split()))
+print(List)
+print(Set)
+
+
+####### Taking Input for Tuple
+T = (2, 3, 4, 5, 6)
+print("Tuple before adding new element")
+print(T)
+L = list(T)
+L.append(int(input("Enter the new element : ")))
+T = tuple(L)
+print("Tuple After adding the new element")
+print(T)
+
+
+# Print Output
+# Python program to demonstrate
+# print() method
+print("GFG")
+ 
+# code for disabling the softspace feature 
+print('G', 'F', 'G')
+
+
+####### Python Print output with custom sep and end parameter
+# Python program to demonstrate
+# print() method
+print("GFG", end = "@")
+ 
+# code for disabling the softspace feature 
+print('G', 'F', 'G', sep="#")
+
+
+
+####### Python String formatting using F string
+# Declaring a variable
+name = "Gfg"
+ 
+# Output
+print(f'Hello {name}! How are you?')
+
+
+
+
+####### Python string formatting using format() function
+# Initializing variables
+a = 20
+b = 10
+
+# addition
+sum = a + b
+
+# subtraction
+sub = a- b
+
+# Output
+print('The value of a is {} and b is {}'.format(a,b))
+
+print('{2} is the sum of {0} and {1}'.format(a,b,sum))
+
+print('{sub_value} is the subtraction of {value_a} and {value_b}'.format(value_a = a ,
+																		value_b = b,
+																		sub_value = sub))
+
+
+###### Using % Operator => 
+# %d – integer
+# %f – float
+# %s – string
+# %x – hexadecimal
+# %o – octal
+
+# Taking input from the user
+num = int(input("Enter a value: "))
+ 
+add = num + 5
+ 
+# Output
+print("The sum is %d" %add)
+
+
+
