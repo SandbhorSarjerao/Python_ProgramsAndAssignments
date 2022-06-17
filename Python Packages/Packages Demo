@@ -1,0 +1,66 @@
+
+
+####### Go to any directory in your laptop or desktop and create the above folder structure. After creating the above folder structure include the following code in respective files.
+# student.py
+class Student:
+
+   def __init__(self, student):
+      self.name = student['name']
+      self.gender = student['gender']
+      self.year = student['year']
+
+   def get_student_details(self):
+      return f"Name: {self.name}\nGender: {self.gender}\nYear: {self.year}"
+
+
+# faculty.py
+class Faculty:
+
+   def __init__(self, faculty):
+      self.name = faculty['name']
+      self.subject = faculty['subject']
+
+   def get_faculty_details(self):
+      return f"Name: {self.name}\nSubject: {self.subject}"
+      
+      
+      
+      
+      
+##### We have the above in the student.py and faculty.py files. Let's create another file to access those classed inside it. Now, inside the package directory create a file named testing.py and include the following code.
+# testing.py
+# importing the Student and Faculty classes from respective files
+from student import Student
+from faculty import Faculty
+
+# creating dicts for student and faculty
+student_dict = {'name' : 'John', 'gender': 'Male', 'year': '3'}
+faculty_dict = {'name': 'Emma', 'subject': 'Programming'}
+
+# creating instances of the Student and Faculty classes
+student = Student(student_dict)
+faculty = Faculty(faculty_dict)
+
+# getting and printing the student and faculty details
+print(student.get_student_details())
+print()
+print(faculty.get_faculty_details())
+
+
+
+######## Copy the above student code and place it here. Now, let's see how to access it in the testing.py file. Add the following in the testing.py file.
+# testing.py
+from student.main import Student
+
+# creating dicts for student
+student_dict = {'name' : 'John', 'gender': 'Male', 'year': '3'}
+
+# creating instances of the Student class
+student = Student(student_dict)
+
+# getting and printing the student details
+print(student.get_student_details())
+
+
+
+
