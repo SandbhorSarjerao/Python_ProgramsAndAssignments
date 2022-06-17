@@ -10,6 +10,7 @@ Example => s = set()
 7) Dynamic - Can Add & Delete Elements - Can chage the size
 '''
 
+# Example-1
 x = set()
 x.add(1)
 x.add(2)
@@ -33,6 +34,20 @@ myset = {1,2,3,4,5,1,6,2,4,3,7,8,9}
 type(myset)
 print(myset)
 
+
+
+# Example-2
+my_set = {“Jan”,”Feb”,”Mar”}
+print(my_set)
+print(my_set[2])
+
+for element in my_set:
+    print(element)
+
+my_set.add(“April”)
+print(my_set)
+my_set.remove(“Jan”)
+print(my_set)
 
 
 
