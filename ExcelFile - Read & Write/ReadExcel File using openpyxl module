@@ -10,3 +10,63 @@ print("My sheet title: " + my_sheet_title)
 # change Title Name
 my_sheet.title = "My New Sheet"
 print("sheet name is : " + sheet.title)
+
+
+
+# Display Total number of Sheet rows
+my_wb.save("C:\Users\Shivajirao\Desktop\Book1.xlsx")
+my_wb_obj = openpyxl.load_workbook(my_path)
+my_sheet_obj = my_wb_obj.active
+print(my_sheet_obj.max_row)
+
+# Display a particular cell value
+# Give the location of the file
+my_wb.save("C:\Users\Shivajirao\Desktop\Book1.xlsx")
+wb_obj = openpyxl.load_workbook(my_path)
+my_sheet_obj = my_wb_obj.active
+my_cell_obj = my_sheet_obj.cell(row = 1, column = 1)
+print(my_cell_obj.value)
+
+# Display total number of columns
+my_wb.save("C:\Users\Shivajirao\Desktop\Book1.xlsx")
+my_wb_obj = openpyxl.load_workbook(path)
+my_sheet_obj = my_wb_obj.active
+print(sheet_obj.max_column)
+
+# Display all columns name
+# Give the location of the file
+my_wb.save("C:\Users\Shivajirao\Desktop\Book1.xlsx")
+# workbook object is created
+my_wb_obj = openpyxl.load_workbook(my_path)
+my_sheet_obj = my_wb_obj.active
+my_max_col = my_sheet_obj.max_column
+for i in range(1, my_max_col + 1):
+   my_cell_obj = my_sheet_obj.cell(row = 1, column = i)
+   print(my_cell_obj.value) 
+
+
+
+# Display first column value
+# Give the location of the file
+my_wb.save("C:\Users\Shivajirao\Desktop\Book1.xlsx")
+my_wb_obj = openpyxl.load_workbook(my_path)
+my_sheet_obj = my_wb_obj.active
+my_row = my_sheet_obj.max_row
+for i in range(1, my_row + 1):
+   cell_obj = my_sheet_obj.cell(row = i, column = 1)
+   print(cell_obj.value)
+   
+   
+   
+# Print a particular row value
+# Give the location of the file
+my_wb.save("C:\Users\Shivajirao\Desktop\Book1.xlsx")
+my_wb_obj = openpyxl.load_workbook(my_path)
+my_sheet_obj = my_wb_obj.active
+my_max_col = my_sheet_obj.max_column
+for i in range(1, my_max_col + 1):
+   cell_obj = my_sheet_obj.cell(row = 2, column = i)
+   print(cell_obj.value, end = " ")
+
+
+
