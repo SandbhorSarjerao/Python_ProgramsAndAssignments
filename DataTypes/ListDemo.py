@@ -9,6 +9,7 @@ List ==>
 6) Heterogeneous Elements Allowed
 '''
 
+# Example-1
 List1 = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
 print("List Values: ", List1)
 
@@ -38,3 +39,16 @@ print("Maximum Number from List: ", max(List1))
 print("Sum of List: ", sum(List1))
 print("Sorted List: ", sorted(List1))
 print("Sort List: ", List1.sort())
+
+
+
+
+# Example-2
+my_list = [“Jan”,”Feb”,”Mar”,”April”,”May”,”June”,”July”]
+print(my_list)
+print(my_list[3])
+my_list.append(”Aug”)
+print(my_list)
+print(my_list[7])
+my_list.remove(“Jan”)
+print(my_list)
