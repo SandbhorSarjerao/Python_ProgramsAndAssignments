@@ -1,18 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="17674f70-8dfe-48c8-b943-66407bcf921e" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/WebSiteDevelopment_Project/Server.py" beforeDir="false" afterPath="$PROJECT_DIR$/WebSiteDevelopment_Project/Server.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebSiteDevelopment_Project/Static/main.70a66962.js" beforeDir="false" afterPath="$PROJECT_DIR$/WebSiteDevelopment_Project/Static/main.70a66962.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebSiteDevelopment_Project/Templates/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/WebSiteDevelopment_Project/Templates/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebSiteDevelopment_Project/Templates/components.html" beforeDir="false" afterPath="$PROJECT_DIR$/WebSiteDevelopment_Project/Templates/components.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebSiteDevelopment_Project/Templates/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/WebSiteDevelopment_Project/Templates/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebSiteDevelopment_Project/Templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/WebSiteDevelopment_Project/Templates/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebSiteDevelopment_Project/Templates/work.html" beforeDir="false" afterPath="$PROJECT_DIR$/WebSiteDevelopment_Project/Templates/work.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebSiteDevelopment_Project/Templates/works.html" beforeDir="false" afterPath="$PROJECT_DIR$/WebSiteDevelopment_Project/Templates/works.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project_PhoneNumberTracker/Number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project_PhoneNumberTracker/TrackerPhoneNumber.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project_PhoneNumberTracker/readme.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Python_ProgramsAndAssignments-master.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python_ProgramsAndAssignments-master.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerNews_Project/WebScraping.py" beforeDir="false" afterPath="$PROJECT_DIR$/Project_HackerNews/WebScraping.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebSiteDevelopment_Project/Server.py" beforeDir="false" afterPath="$PROJECT_DIR$/Project_WebSiteDevelopment/Server.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebSiteDevelopment_Project/Static/assets/apple-icon-180x180.png" beforeDir="false" afterPath="$PROJECT_DIR$/Project_WebSiteDevelopment/Static/assets/apple-icon-180x180.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebSiteDevelopment_Project/Static/assets/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/Project_WebSiteDevelopment/Static/assets/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebSiteDevelopment_Project/Static/assets/images/profil.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Project_WebSiteDevelopment/Static/assets/images/profil.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebSiteDevelopment_Project/Static/assets/images/space.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Project_WebSiteDevelopment/Static/assets/images/space.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebSiteDevelopment_Project/Static/assets/images/work001-01.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Project_WebSiteDevelopment/Static/assets/images/work001-01.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebSiteDevelopment_Project/Static/assets/images/work001-02.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Project_WebSiteDevelopment/Static/assets/images/work001-02.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebSiteDevelopment_Project/Static/assets/images/work001-03.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Project_WebSiteDevelopment/Static/assets/images/work001-03.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebSiteDevelopment_Project/Static/assets/images/work001-04.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Project_WebSiteDevelopment/Static/assets/images/work001-04.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebSiteDevelopment_Project/Static/assets/images/work01-hover.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Project_WebSiteDevelopment/Static/assets/images/work01-hover.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebSiteDevelopment_Project/Static/assets/images/work02-hover.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Project_WebSiteDevelopment/Static/assets/images/work02-hover.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebSiteDevelopment_Project/Static/assets/images/work03-hover.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Project_WebSiteDevelopment/Static/assets/images/work03-hover.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebSiteDevelopment_Project/Static/logo.ico" beforeDir="false" afterPath="$PROJECT_DIR$/Project_WebSiteDevelopment/Static/logo.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebSiteDevelopment_Project/Static/main.3f6952e4.css" beforeDir="false" afterPath="$PROJECT_DIR$/Project_WebSiteDevelopment/Static/main.3f6952e4.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebSiteDevelopment_Project/Static/main.70a66962.js" beforeDir="false" afterPath="$PROJECT_DIR$/Project_WebSiteDevelopment/Static/main.70a66962.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebSiteDevelopment_Project/Templates/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/Project_WebSiteDevelopment/Templates/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebSiteDevelopment_Project/Templates/components.html" beforeDir="false" afterPath="$PROJECT_DIR$/Project_WebSiteDevelopment/Templates/components.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebSiteDevelopment_Project/Templates/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/Project_WebSiteDevelopment/Templates/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebSiteDevelopment_Project/Templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Project_WebSiteDevelopment/Templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebSiteDevelopment_Project/Templates/work.html" beforeDir="false" afterPath="$PROJECT_DIR$/Project_WebSiteDevelopment/Templates/work.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebSiteDevelopment_Project/Templates/works.html" beforeDir="false" afterPath="$PROJECT_DIR$/Project_WebSiteDevelopment/Templates/works.html" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -124,6 +146,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="d9840857-6ff3-41d3-9a96-3a5825f458d4" />
+        <option name="url" value="https://github.com/SandbhorSarjerao/Python_ProgramsAndAssignments.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -174,6 +208,9 @@
       </list>
     </option>
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="818" />
     <option name="y" value="369" />
@@ -212,12 +249,17 @@
       </pane>
     </panes>
   </component>
-  <component name="PropertiesComponent">
-    <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
-    <property name="settings.editor.splitter.proportion" value="0.18510324" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+  }
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Sarjerao Sandbhor\PycharmProjects\Python_ProgramsAndAssignments\WebSiteDevelopment_Project" />
@@ -234,37 +276,7 @@
       <recent name="C:\Users\Sarjerao Sandbhor\PycharmProjects\Python_ProgramsAndAssignments\ImageProcessing" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Python.ImageProcess">
-    <configuration name="ArraysProgram" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python_ProgramsAndAssignments-master" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DataTypes" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\Sarjerao Sandbhor\PycharmProjects\Python_ProgramsAndAssignments\Programs\Arrays_SearchElement.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.TrackerPhoneNumber">
     <configuration name="Arrays_MultiDimension" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_ProgramsAndAssignments-master" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -282,6 +294,9 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
     <configuration name="Arrays_Operations" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_ProgramsAndAssignments-master" />
@@ -300,6 +315,9 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
     <configuration name="Arrays_numpy" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_ProgramsAndAssignments-master" />
@@ -318,6 +336,9 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
     <configuration name="ImageProcess" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_ProgramsAndAssignments-master" />
@@ -336,9 +357,33 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TrackerPhoneNumber" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python_ProgramsAndAssignments-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Project_PhoneNumberTracker" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Project_PhoneNumberTracker/TrackerPhoneNumber.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.ArraysProgram" />
+      <item itemvalue="Python.TrackerPhoneNumber" />
       <item itemvalue="Python.Arrays_MultiDimension" />
       <item itemvalue="Python.Arrays_numpy" />
       <item itemvalue="Python.Arrays_Operations" />
@@ -346,14 +391,15 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.TrackerPhoneNumber" />
         <item itemvalue="Python.ImageProcess" />
         <item itemvalue="Python.Arrays_Operations" />
         <item itemvalue="Python.Arrays_numpy" />
         <item itemvalue="Python.Arrays_MultiDimension" />
-        <item itemvalue="Python.ArraysProgram" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -488,9 +534,6 @@
       <window_info id="Favorites" order="2" side_tool="true" />
     </layout-to-restore>
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Updated Programs" />
     <MESSAGE value="Updated &amp; Added New Programs" />
@@ -500,14 +543,6 @@
     <MESSAGE value="Added SMS Programs" />
     <MESSAGE value="Added WebSiteDevelopment Project" />
     <option name="LAST_COMMIT_MESSAGE" value="Added WebSiteDevelopment Project" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints-dialog>
-        <breakpoints-dialog />
-      </breakpoints-dialog>
-      <option name="time" value="7" />
-    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/DataTypes/ListDemo3_HeterogeneousElements.py">
