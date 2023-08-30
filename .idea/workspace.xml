@@ -4,36 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="17674f70-8dfe-48c8-b943-66407bcf921e" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Project_PhoneNumberTracker/Number.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project_PhoneNumberTracker/TrackerPhoneNumber.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project_PhoneNumberTracker/readme.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Python_ProgramsAndAssignments-master.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python_ProgramsAndAssignments-master.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="17674f70-8dfe-48c8-b943-66407bcf921e" name="Default" comment="Added PhoneNumber Tracker Project">
+      <change afterPath="$PROJECT_DIR$/Project_Calculator App/CalculatorApp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project_Calculator App/Readme.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerNews_Project/WebScraping.py" beforeDir="false" afterPath="$PROJECT_DIR$/Project_HackerNews/WebScraping.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebSiteDevelopment_Project/Server.py" beforeDir="false" afterPath="$PROJECT_DIR$/Project_WebSiteDevelopment/Server.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebSiteDevelopment_Project/Static/assets/apple-icon-180x180.png" beforeDir="false" afterPath="$PROJECT_DIR$/Project_WebSiteDevelopment/Static/assets/apple-icon-180x180.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebSiteDevelopment_Project/Static/assets/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/Project_WebSiteDevelopment/Static/assets/favicon.ico" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebSiteDevelopment_Project/Static/assets/images/profil.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Project_WebSiteDevelopment/Static/assets/images/profil.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebSiteDevelopment_Project/Static/assets/images/space.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Project_WebSiteDevelopment/Static/assets/images/space.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebSiteDevelopment_Project/Static/assets/images/work001-01.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Project_WebSiteDevelopment/Static/assets/images/work001-01.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebSiteDevelopment_Project/Static/assets/images/work001-02.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Project_WebSiteDevelopment/Static/assets/images/work001-02.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebSiteDevelopment_Project/Static/assets/images/work001-03.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Project_WebSiteDevelopment/Static/assets/images/work001-03.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebSiteDevelopment_Project/Static/assets/images/work001-04.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Project_WebSiteDevelopment/Static/assets/images/work001-04.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebSiteDevelopment_Project/Static/assets/images/work01-hover.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Project_WebSiteDevelopment/Static/assets/images/work01-hover.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebSiteDevelopment_Project/Static/assets/images/work02-hover.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Project_WebSiteDevelopment/Static/assets/images/work02-hover.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebSiteDevelopment_Project/Static/assets/images/work03-hover.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Project_WebSiteDevelopment/Static/assets/images/work03-hover.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebSiteDevelopment_Project/Static/logo.ico" beforeDir="false" afterPath="$PROJECT_DIR$/Project_WebSiteDevelopment/Static/logo.ico" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebSiteDevelopment_Project/Static/main.3f6952e4.css" beforeDir="false" afterPath="$PROJECT_DIR$/Project_WebSiteDevelopment/Static/main.3f6952e4.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebSiteDevelopment_Project/Static/main.70a66962.js" beforeDir="false" afterPath="$PROJECT_DIR$/Project_WebSiteDevelopment/Static/main.70a66962.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebSiteDevelopment_Project/Templates/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/Project_WebSiteDevelopment/Templates/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebSiteDevelopment_Project/Templates/components.html" beforeDir="false" afterPath="$PROJECT_DIR$/Project_WebSiteDevelopment/Templates/components.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebSiteDevelopment_Project/Templates/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/Project_WebSiteDevelopment/Templates/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebSiteDevelopment_Project/Templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Project_WebSiteDevelopment/Templates/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebSiteDevelopment_Project/Templates/work.html" beforeDir="false" afterPath="$PROJECT_DIR$/Project_WebSiteDevelopment/Templates/work.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebSiteDevelopment_Project/Templates/works.html" beforeDir="false" afterPath="$PROJECT_DIR$/Project_WebSiteDevelopment/Templates/works.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project_PhoneNumberTracker/readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Project_PhoneNumberTracker/readme.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -145,11 +120,12 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SET_USER_NAME_GLOBALLY" value="false" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -276,28 +252,7 @@
       <recent name="C:\Users\Sarjerao Sandbhor\PycharmProjects\Python_ProgramsAndAssignments\ImageProcessing" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.TrackerPhoneNumber">
-    <configuration name="Arrays_MultiDimension" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python_ProgramsAndAssignments-master" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DataTypes" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DataTypes/Arrays_MultiDimension.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.CalculatorApp">
     <configuration name="Arrays_Operations" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_ProgramsAndAssignments-master" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -332,6 +287,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DataTypes/Arrays_numpy.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="CalculatorApp" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python_ProgramsAndAssignments-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Project_Calculator App" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Project_Calculator App/CalculatorApp.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -383,19 +359,19 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Python.CalculatorApp" />
       <item itemvalue="Python.TrackerPhoneNumber" />
-      <item itemvalue="Python.Arrays_MultiDimension" />
       <item itemvalue="Python.Arrays_numpy" />
       <item itemvalue="Python.Arrays_Operations" />
       <item itemvalue="Python.ImageProcess" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.CalculatorApp" />
         <item itemvalue="Python.TrackerPhoneNumber" />
         <item itemvalue="Python.ImageProcess" />
         <item itemvalue="Python.Arrays_Operations" />
         <item itemvalue="Python.Arrays_numpy" />
-        <item itemvalue="Python.Arrays_MultiDimension" />
       </list>
     </recent_temporary>
   </component>
@@ -481,7 +457,15 @@
       <option name="project" value="LOCAL" />
       <updated>1644154342951</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Added PhoneNumber Tracker Project">
+      <option name="closed" value="true" />
+      <created>1693055542540</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1693055542540</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TodoView">
@@ -542,7 +526,8 @@
     <MESSAGE value="Updated Password Checker Programs" />
     <MESSAGE value="Added SMS Programs" />
     <MESSAGE value="Added WebSiteDevelopment Project" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added WebSiteDevelopment Project" />
+    <MESSAGE value="Added PhoneNumber Tracker Project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added PhoneNumber Tracker Project" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/DataTypes/ListDemo3_HeterogeneousElements.py">
