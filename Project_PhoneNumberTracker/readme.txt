@@ -1,5 +1,5 @@
 
-1) Phonenumbers Python Library => pip install kivy
+1) Phonenumbers Python Library =>
 https://pypi.org/project/phonenumbers/
 
 Install using pip with: pip install phonenumbers

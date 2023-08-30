@@ -3,6 +3,10 @@ from kivy.uix.boxlayout import BoxLayout
 from kivy.uix.button import Button
 from kivy.uix.textinput import TextInput
 
+# Library to create Mobile Application
+
+
+
 # Define Class
 class CalciApp(App):
     # Define Constructor
@@ -16,7 +20,7 @@ class CalciApp(App):
         main_layout = BoxLayout(orientation = "vertical")
 
         # Results Screen
-        self.solution = TextInput(background_color = "yellow", foreground_color = "red")
+        self.solution = TextInput(background_color = "black", foreground_color = "white", multiline = False, halign = "right", font_size = 50)      # readonly=True
 
         # In main layout pass Results Screen
         main_layout.add_widget(self.solution)
@@ -31,7 +35,7 @@ class CalciApp(App):
 
         # In main layout Add Buttons
         for row in buttons:
-            h_layout = BoxLayout
+            h_layout = BoxLayout()
 
             # Create Labels for Numbers & operators
             for label in row:
@@ -53,7 +57,7 @@ class CalciApp(App):
             main_layout.add_widget(h_layout)
 
         equal_button = Button(
-            text="=", font_size=30, background_color="grey",
+            text="=", font_size=50, background_color="gray",
 
             # "=" Button Position
             pos_hint={"center_x": 0.5, "center_y": 0.5}
@@ -82,7 +86,7 @@ class CalciApp(App):
         else:
             if current and (
                 self.last_was_operator and button_text in self.operators):
-                return None     # 2nd operator cant add to 1st operator
+                return None      # 2nd operator cant add to 1st operator
 
             # if screen is empty and wants to type operator then should not allow to press operator first, at 1st only digit should be pressed
             # 1st letter should be number not operator
@@ -99,7 +103,12 @@ class CalciApp(App):
 
 
     # Define "on_solution" funtion
+    def on_solution(self, instance):
+        text = self.solution.text
 
+        if text:
+            solution = str(eval(self.solution.text))
+            self.solution.text = solution
 
 
 

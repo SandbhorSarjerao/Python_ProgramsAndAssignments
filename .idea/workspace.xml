@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="17674f70-8dfe-48c8-b943-66407bcf921e" name="Default" comment="Added PhoneNumber Tracker Project">
-      <change afterPath="$PROJECT_DIR$/Project_Calculator App/CalculatorApp.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project_Calculator App/Readme.txt" afterDir="false" />
+    <list default="true" id="17674f70-8dfe-48c8-b943-66407bcf921e" name="Default" comment="Added Calculator App Project">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project_Calculator App/CalculatorApp.py" beforeDir="false" afterPath="$PROJECT_DIR$/Project_Calculator App/CalculatorApp.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project_Calculator App/Readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Project_Calculator App/Readme.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Project_PhoneNumberTracker/readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Project_PhoneNumberTracker/readme.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -465,7 +465,15 @@
       <option name="project" value="LOCAL" />
       <updated>1693055542540</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Added Calculator App Project">
+      <option name="closed" value="true" />
+      <created>1693388403377</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1693388403377</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TodoView">
@@ -527,7 +535,8 @@
     <MESSAGE value="Added SMS Programs" />
     <MESSAGE value="Added WebSiteDevelopment Project" />
     <MESSAGE value="Added PhoneNumber Tracker Project" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added PhoneNumber Tracker Project" />
+    <MESSAGE value="Added Calculator App Project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Calculator App Project" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/DataTypes/ListDemo3_HeterogeneousElements.py">
