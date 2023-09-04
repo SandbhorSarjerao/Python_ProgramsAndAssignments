@@ -9,6 +9,7 @@
    With a single codebase, you will be able to deploy apps on Windows, Linux, macOS, iOS and Android.
 
 2) Buildozer => pip install --user --upgrade buildozer
+   https://buildozer.readthedocs.io/en/latest/installation.html
    https://buildozer.readthedocs.io
    Used buildozer to convert python script.
 
