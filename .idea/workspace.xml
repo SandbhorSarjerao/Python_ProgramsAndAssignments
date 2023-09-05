@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="17674f70-8dfe-48c8-b943-66407bcf921e" name="Default" comment="Added Calculator App Project KIVY">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project_Calculator App with KIVY/mycalculator.kv" beforeDir="false" afterPath="$PROJECT_DIR$/Project_Calculator App with KIVY/mycalculator.kv" afterDir="false" />
+    <list default="true" id="17674f70-8dfe-48c8-b943-66407bcf921e" name="Default" comment="Updated Calculator App Project KIVY">
+      <change beforePath="$PROJECT_DIR$/Project_Calculator App with KIVY/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Project_Calculator App with KIVY/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -493,7 +492,15 @@
       <option name="project" value="LOCAL" />
       <updated>1693911705602</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Updated Calculator App Project KIVY">
+      <option name="closed" value="true" />
+      <created>1693912311271</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1693912311271</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TodoView">
@@ -568,7 +575,8 @@
     <MESSAGE value="Added PhoneNumber Tracker Project" />
     <MESSAGE value="Added Calculator App Project" />
     <MESSAGE value="Added Calculator App Project KIVY" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Calculator App Project KIVY" />
+    <MESSAGE value="Updated Calculator App Project KIVY" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated Calculator App Project KIVY" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/DataTypes/ListDemo3_HeterogeneousElements.py">
