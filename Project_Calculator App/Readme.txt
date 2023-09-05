@@ -81,5 +81,10 @@
        *** Refresh left-side files pane
        *** Verify "" APK is got created
 
+### Basic Android App Development
+### How to setup windows sub-system for Linux
+### Basic Android calculation process
+### Installation of Linux on Windows
+### Virtual Machine
 
 

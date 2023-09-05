@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="17674f70-8dfe-48c8-b943-66407bcf921e" name="Default" comment="Updated Calculator App Project KIVY">
-      <change beforePath="$PROJECT_DIR$/Project_Calculator App with KIVY/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Project_Calculator App with KIVY/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project_Calculator App/Readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Project_Calculator App/Readme.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -231,14 +232,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "Calculator-App-Using-KIVY",
-    "last_opened_file_path": "C:/Users/sarje/PycharmProjects/Python_ProgramsAndAssignments/Project_Calculator App with KIVY"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Calculator-App-Using-KIVY&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/sarje/PycharmProjects/Python_ProgramsAndAssignments/Project_Calculator App with KIVY&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\sarje\PycharmProjects\Python_ProgramsAndAssignments\Project_Calculator App with KIVY" />
