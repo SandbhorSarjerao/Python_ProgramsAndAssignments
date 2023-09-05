@@ -68,14 +68,21 @@
             on_press: root.calc_symbol('+')
   
         Button:
-            text: "-"
+            text: "."
             font_size: 26
-            on_press: root.calc_symbol('-')  
+            on_press: root.calc_symbol('.')
         Button:
             text: "0"
             font_size: 26
             on_press: root.calc_symbol('0')
-                                               
+        Button:
+            text: "C"
+            font_size: 26
+            on_press: root.clear()
+        Button:
+            text: "-"
+            font_size: 26
+            on_press: root.calc_symbol('-')
 
     BoxLayout:
         orientation: 'horizontal'
@@ -83,16 +90,10 @@
         spacing: 7
         height: 100
         size_hint: (1, None)
-        Button:
-            text: "."
-            font_size: 26
-            on_press: root.calc_symbol('.')     
+
         Button:
             text: "="
             font_size: 26
             on_press: root.get_result()
-        Button:
-            text: "C"
-            font_size: 26
-            on_press: root.clear()
+
 
