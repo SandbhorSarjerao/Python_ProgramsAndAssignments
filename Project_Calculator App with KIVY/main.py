@@ -1,6 +1,6 @@
 from kivy.app import App
 from kivy.core.window import Window
-#Window.size = (640, 700)
+Window.size = (640, 700)
 import kivy
 from kivy.uix.boxlayout import BoxLayout
 from kivy.uix.button import Button
