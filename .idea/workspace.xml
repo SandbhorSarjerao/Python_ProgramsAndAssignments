@@ -310,7 +310,7 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Project_Calculator App" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Project_PhoneNumberTracker" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
@@ -371,6 +371,9 @@
       <item itemvalue="Python.main (1)" />
       <item itemvalue="Python.main (2)" />
       <item itemvalue="Python.main" />
+      <item itemvalue="Python.main (1)" />
+      <item itemvalue="Python.TrackerPhoneNumber" />
+      <item itemvalue="Python.ImageProcess" />
     </list>
     <recent_temporary>
       <list>
