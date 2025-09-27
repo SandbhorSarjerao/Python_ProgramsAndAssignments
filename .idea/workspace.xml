@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="17674f70-8dfe-48c8-b943-66407bcf921e" name="Default" comment="Updated Calculator App Project KIVY">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PDF Bill Creator/Bill with Paid.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PDF Bill Creator/Bill_By_LearningHub.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PDF Bill Creator/New_Bill.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PDF Bill Creator/PDF_Bill.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PDF Bill Creator/coursera_logo.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -259,8 +263,8 @@
       <recent name="C:\Users\Sarjerao Sandbhor\PycharmProjects\Python_ProgramsAndAssignments\MathematicalPrograms" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.main (2)">
-    <configuration name="ImageProcess" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Bill with Paid">
+    <configuration name="Bill with Paid" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_ProgramsAndAssignments-master" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -268,11 +272,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ImageProcessing" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PDF Bill Creator" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ImageProcessing/ImageProcess.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PDF Bill Creator/Bill with Paid.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -281,7 +285,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="TrackerPhoneNumber" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="New_Bill" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_ProgramsAndAssignments-master" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -289,11 +293,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Project_PhoneNumberTracker" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PDF Bill Creator" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Project_PhoneNumberTracker/TrackerPhoneNumber.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PDF Bill Creator/New_Bill.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="PDF_Bill" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python_ProgramsAndAssignments-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PDF Bill Creator" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PDF Bill Creator/PDF_Bill.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -344,44 +369,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python_ProgramsAndAssignments-master" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Project_Calculator App" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\sarje\PycharmProjects\Python_ProgramsAndAssignments\Project_Calculator App\main.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <list>
-      <item itemvalue="Python.ImageProcess" />
-      <item itemvalue="Python.TrackerPhoneNumber" />
-      <item itemvalue="Python.main (1)" />
+      <item itemvalue="Python.Bill with Paid" />
+      <item itemvalue="Python.New_Bill" />
+      <item itemvalue="Python.PDF_Bill" />
       <item itemvalue="Python.main (2)" />
-      <item itemvalue="Python.main" />
       <item itemvalue="Python.main (1)" />
-      <item itemvalue="Python.TrackerPhoneNumber" />
-      <item itemvalue="Python.ImageProcess" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Bill with Paid" />
+        <item itemvalue="Python.New_Bill" />
+        <item itemvalue="Python.PDF_Bill" />
         <item itemvalue="Python.main (2)" />
         <item itemvalue="Python.main (1)" />
-        <item itemvalue="Python.main" />
-        <item itemvalue="Python.TrackerPhoneNumber" />
-        <item itemvalue="Python.ImageProcess" />
       </list>
     </recent_temporary>
   </component>
